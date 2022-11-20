@@ -1,0 +1,14 @@
+wget==3.2
+numpy==1.21.6
+watermark==2.3.1
+sklearn-pandas==1.8.0
+matplotlib==3.2.2
+keras==2.9.0
+scikit-plot==0.3.7
+tensorflow==2.9.2
+seaborn==0.11.2
+protobuf==3.19.6
+scikit-image==0.18.3
+scikit-learn==1.0.2
+scipy==1.7.3
+nbconvert
